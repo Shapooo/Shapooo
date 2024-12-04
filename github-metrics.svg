@@ -2000,6 +2000,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 8)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2025,7 +2030,7 @@
                     <rect mask="url(#languages-bar)" x="595.5800116419214" y="0" width="94.60497897449646" height="8" fill="#dea584"/>
                     <rect mask="url(#languages-bar)" x="690.184990616418" y="0" width="63.73232275657515" height="8" fill="#f1e05a"/>
                     <rect mask="url(#languages-bar)" x="753.9173133729931" y="0" width="58.47747819555047" height="8" fill="#c065db"/>
-                    <rect mask="url(#languages-bar)" x="812.3947915685436" y="0" width="58.333485499527804" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="812.3947915685436" y="0" width="58.333485499527804" height="8" fill="#663399"/>
                     <rect mask="url(#languages-bar)" x="870.7282770680713" y="0" width="49.27172293192857" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
@@ -2067,7 +2072,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -2279,7 +2284,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 09:47:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2024, 09:47:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
